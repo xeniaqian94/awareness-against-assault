@@ -1,18 +1,8 @@
-## Simple site: Easy websites with GitHub pages
+# awareness-against-assault
+Awareness, advocating, and addressing assault. 
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using Markdown and git.
 
-This is a minimal tutorial to get started.
+Personal domestic story within the context of academia.
 
-View the thing [here](https://kbroman.org/simple_site).
+Site at [https://xeniaqian94.github.io/awareness-against-assault/](https://xeniaqian94.github.io/awareness-against-assault/).
 
----
-
-To the extent possible under law,
-[Karl Broman](https://github.com/kbroman)
-has waived all copyright and related or neighboring rights to
-&ldquo;[simple site](https://github.com/kbroman/simple_site)&rdquo;.
-This work is published from the United States.
-<br/>
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
